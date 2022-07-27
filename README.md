@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Correia</h1>
 <h3 align="center">A passionate fullstack developer from Brazil.</h3>
 
-- 🔭 I’m currently lookgin for a **fullstack job.**
+- 🔭 I’m currently lookgin for a **remote fullstack job.**
 
 - 🌱 I’m currently learning **Software design.**
 
